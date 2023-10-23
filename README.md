@@ -27,8 +27,10 @@ The project offers the following RESTful endpoints for managing rooms:
 
 ## Usege    
 
-    Once the application is running, you can use a tool like Postman or curl to test the provided endpoints for adding, retrieving, updating, and deleting user information.
-    ![Screenshot 2023-10-23 220601](https://github.com/bhagchandr123/Hotal_Management_System/assets/142751557/c7ec4522-b0a3-459f-90b3-9be919ad7976)
+Once the application is running, you can use a tool like Postman or curl to test the provided endpoints for adding, retrieving, updating, and deleting user information.
+
+![Screenshot 2023-10-23 220601](https://github.com/bhagchandr123/Hotal_Management_System/assets/142751557/d084e139-1771-405b-8f4a-767e9cc97627)
+
 
 
     
